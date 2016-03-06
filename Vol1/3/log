@@ -1,0 +1,4157 @@
+
+New Call: 7325189087
+Into layer 0
+next: 7
+next: 3
+next: 2
+next: 5
+Route 1 continue at 1
+Into layer 1
+next: 8
+next: 9
+Route 2 start at 0 word = reality
+Into layer 2
+next: 8
+next: 7
+reach end, last word: our
+Route 2 done, b1 = 2
+return 2
+Route 1 done, b1 = 2
+Route 2 start at 1 word = real
+Into layer 1
+next: 8
+Route 2 start at 9 word = it
+Into layer 2
+next: 0
+next: 8
+next: 7
+reach end, last word: your
+Route 2 done, b1 = 2
+return 2
+Route 2 done, b1 = 3
+Comparing b1 and b2
+b1 has count: 2
+b2 has count: 3
+At 0 best is continue, count = 2
+return 2
+Done, count = 2
+
+7325189087
+Parse done, output:
+0: 7
+1: 3
+2: 2
+3: 5
+4: 1
+5: 8
+6: 9
+7: 0
+finally word: reality
+8: 8
+9: 7
+
+New Call: 2285064252258215
+Into layer 0
+next: 2
+next: 2
+next: 8
+Route 2 start at 5 word = cat
+Into layer 1
+next: 0
+next: 6
+next: 4
+Route 2 start at 2 word = long
+Into layer 2
+next: 5
+next: 2
+next: 2
+next: 5
+Route 2 start at 8 word = black
+Into layer 3
+next: 2
+next: 1
+next: 5
+reach end, last word: tail
+Route 2 done, b1 = 2
+return 2
+Route 2 done, b1 = 3
+return 3
+Route 2 done, b1 = 4
+return 4
+Done, count = 4
+
+2285064252258215
+Parse done, output:
+0: 2
+1: 2
+2: 8
+3: 5
+finally word: cat
+4: 0
+5: 6
+6: 4
+7: 2
+finally word: long
+8: 5
+9: 2
+10: 2
+11: 5
+12: 8
+finally word: black
+13: 2
+14: 1
+15: 5
+
+New Call: 4294967296
+Into layer 0
+Dead End, No word available
+Done, count = -10
+
+New Call: 12345
+Into layer 0
+next: 1
+Route 1 continue at 2
+Into layer 1
+next: 3
+Route 2 start at 4 word = iad
+Into layer 2
+Route 2 start at 5 word = g
+Into layer 3
+reach end, last word: k
+Route 2 done, b1 = 2
+return 2
+Route 2 done, b1 = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 2 word = i
+Into layer 1
+next: 3
+next: 4
+next: 5
+reach end, last word: adgk
+Route 2 done, b1 = 2
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 2
+At 0 best is end, count = 2
+return 2
+Done, count = 2
+
+12345
+Parse done, output:
+0: 1
+1: 2
+finally word: i
+2: 3
+3: 4
+4: 5
+
+New Call: 1268432063036979073
+Into layer 0
+next: 1
+Route 2 start at 2 word = i
+Into layer 1
+next: 6
+Route 2 start at 8 word = am
+Into layer 2
+next: 4
+next: 3
+Route 2 start at 2 word = the
+Into layer 3
+next: 0
+next: 6
+next: 3
+Route 2 start at 0 word = bone
+Into layer 4
+next: 3
+Route 2 start at 6 word = of
+Into layer 5
+next: 9
+Route 2 start at 7 word = my
+Into layer 6
+next: 9
+next: 0
+next: 7
+next: 3
+reach end, last word: sword
+Route 2 done, b1 = 2
+return 2
+Route 2 done, b1 = 3
+return 3
+Route 2 done, b1 = 4
+return 4
+Route 2 done, b1 = 5
+return 5
+Route 2 done, b1 = 6
+return 6
+Route 2 done, b1 = 7
+return 7
+Done, count = 7
+
+1268432063036979073
+Parse done, output:
+0: 1
+1: 2
+finally word: i
+2: 6
+3: 8
+finally word: am
+4: 4
+5: 3
+6: 2
+finally word: the
+7: 0
+8: 6
+9: 3
+10: 0
+finally word: bone
+11: 3
+12: 6
+finally word: of
+13: 9
+14: 7
+finally word: my
+15: 9
+16: 0
+17: 7
+18: 3
+
+New Call: 2017697240238123468420176972402381234684201769724023812346842017697240238123468420176972402381234684
+Into layer 0
+next: 2
+next: 0
+next: 1
+next: 7
+next: 6
+next: 9
+next: 7
+next: 2
+next: 4
+next: 0
+next: 2
+next: 3
+next: 8
+next: 1
+next: 2
+Route 1 continue at 3
+Into layer 1
+next: 4
+next: 6
+next: 8
+next: 4
+Route 1 continue at 2
+Into layer 2
+next: 0
+next: 1
+next: 7
+next: 6
+next: 9
+next: 7
+next: 2
+next: 4
+next: 0
+next: 2
+next: 3
+next: 8
+next: 1
+next: 2
+next: 3
+next: 4
+next: 6
+next: 8
+next: 4
+next: 2
+next: 0
+next: 1
+next: 7
+next: 6
+next: 9
+next: 7
+next: 2
+next: 4
+next: 0
+next: 2
+next: 3
+next: 8
+next: 1
+next: 2
+next: 3
+next: 4
+next: 6
+next: 8
+next: 4
+next: 2
+next: 0
+next: 1
+next: 7
+next: 6
+next: 9
+next: 7
+next: 2
+next: 4
+next: 0
+next: 2
+next: 3
+next: 8
+next: 1
+next: 2
+next: 3
+next: 4
+next: 6
+next: 8
+next: 4
+Route 2 start at 2 word = azipmwpbgqadtjafhmthazipmwpbgqadtjafhmthazipmwpbgqadtjafhmthazipmwpbgqadtjafhmth
+Into layer 3
+next: 0
+next: 1
+next: 7
+next: 6
+next: 9
+next: 7
+next: 2
+next: 4
+next: 0
+next: 2
+next: 3
+next: 8
+next: 1
+next: 2
+Route 1 continue at 3
+Into layer 4
+next: 4
+next: 6
+next: 8
+next: 4
+reach end, last word: azipmwpbgqadtjafhmth
+Route 1 done, b1 = 1
+Route 2 start at 3 word = azipmwpbgqadtja
+Into layer 4
+next: 4
+next: 6
+next: 8
+next: 4
+reach end, last word: fhmth
+Route 2 done, b1 = 2
+Comparing b1 and b2
+b1 has count: 1
+b2 has count: 2
+At 3 best is continue, count = 1
+return 1
+Route 2 done, b1 = 2
+return 2
+Route 1 done, b1 = 2
+Route 2 start at 2 word = azipmwpbgqadtjafhmth
+Into layer 2
+next: 0
+next: 1
+next: 7
+next: 6
+next: 9
+next: 7
+next: 2
+next: 4
+next: 0
+next: 2
+next: 3
+next: 8
+next: 1
+next: 2
+Route 1 continue at 3
+Into layer 3
+next: 4
+next: 6
+next: 8
+next: 4
+Route 1 continue at 2
+Into layer 4
+next: 0
+next: 1
+next: 7
+next: 6
+next: 9
+next: 7
+next: 2
+next: 4
+next: 0
+next: 2
+next: 3
+next: 8
+next: 1
+next: 2
+next: 3
+next: 4
+next: 6
+next: 8
+next: 4
+next: 2
+next: 0
+next: 1
+next: 7
+next: 6
+next: 9
+next: 7
+next: 2
+next: 4
+next: 0
+next: 2
+next: 3
+next: 8
+next: 1
+next: 2
+next: 3
+next: 4
+next: 6
+next: 8
+next: 4
+next: 2
+next: 0
+next: 1
+next: 7
+next: 6
+next: 9
+next: 7
+next: 2
+next: 4
+next: 0
+next: 2
+next: 3
+next: 8
+next: 1
+next: 2
+next: 3
+next: 4
+next: 6
+next: 8
+next: 4
+reach end, last word: azipmwpbgqadtjafhmthazipmwpbgqadtjafhmthazipmwpbgqadtjafhmthazipmwpbgqadtjafhmth
+Route 1 done, b1 = 1
+Route 2 start at 2 word = azipmwpbgqadtjafhmth
+Into layer 4
+next: 0
+next: 1
+next: 7
+next: 6
+next: 9
+next: 7
+next: 2
+next: 4
+next: 0
+next: 2
+next: 3
+next: 8
+next: 1
+next: 2
+Route 1 continue at 3
+Into layer 5
+next: 4
+next: 6
+next: 8
+next: 4
+Route 1 continue at 2
+Into layer 6
+next: 0
+next: 1
+next: 7
+next: 6
+next: 9
+next: 7
+next: 2
+next: 4
+next: 0
+next: 2
+next: 3
+next: 8
+next: 1
+next: 2
+next: 3
+next: 4
+next: 6
+next: 8
+next: 4
+next: 2
+next: 0
+next: 1
+next: 7
+next: 6
+next: 9
+next: 7
+next: 2
+next: 4
+next: 0
+next: 2
+next: 3
+next: 8
+next: 1
+next: 2
+next: 3
+next: 4
+next: 6
+next: 8
+next: 4
+Dead End, No word available
+Route 1 done, b1 = -10
+Route 2 start at 2 word = azipmwpbgqadtjafhmth
+Into layer 6
+next: 0
+next: 1
+next: 7
+next: 6
+next: 9
+next: 7
+next: 2
+next: 4
+next: 0
+next: 2
+next: 3
+next: 8
+next: 1
+next: 2
+Route 1 continue at 3
+Into layer 7
+next: 4
+next: 6
+next: 8
+next: 4
+pre stored, return 3
+Route 1 done, b1 = 3
+Route 2 start at 3 word = azipmwpbgqadtja
+Into layer 7
+next: 4
+next: 6
+next: 8
+next: 4
+pre stored, return 3
+Route 2 done, b1 = 4
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 4
+At 6 best is continue, count = 3
+return 3
+Route 2 done, b1 = 4
+return 4
+Route 1 done, b1 = 4
+Route 2 start at 3 word = azipmwpbgqadtja
+Into layer 5
+next: 4
+next: 6
+next: 8
+next: 4
+pre stored, return 5
+Route 2 done, b1 = 6
+Comparing b1 and b2
+b1 has count: 4
+b2 has count: 6
+At 4 best is continue, count = 4
+return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 1
+b2 has count: 5
+At 3 best is continue, count = 1
+return 1
+Route 1 done, b1 = 1
+Route 2 start at 3 word = azipmwpbgqadtja
+Into layer 3
+next: 4
+next: 6
+next: 8
+next: 4
+pre stored, return 2
+Route 2 done, b1 = 3
+Comparing b1 and b2
+b1 has count: 1
+b2 has count: 3
+At 2 best is continue, count = 1
+return 1
+Route 2 done, b1 = 2
+Comparing b1 and b2
+b1 has count: 2
+b2 has count: 2
+At 1 best is end, count = 2
+return 2
+Route 1 done, b1 = 2
+Route 2 start at 3 word = azipmwpbgqadtja
+Into layer 1
+next: 4
+next: 6
+next: 8
+next: 4
+pre stored, return 3
+Route 2 done, b1 = 4
+Comparing b1 and b2
+b1 has count: 2
+b2 has count: 4
+At 0 best is continue, count = 2
+return 2
+Done, count = 2
+
+2017697240238123468420176972402381234684201769724023812346842017697240238123468420176972402381234684
+Parse done, output:
+0: 2
+1: 0
+2: 1
+3: 7
+4: 6
+5: 9
+6: 7
+7: 2
+8: 4
+9: 0
+10: 2
+11: 3
+12: 8
+13: 1
+14: 2
+15: 3
+16: 4
+17: 6
+18: 8
+19: 4
+20: 2
+finally word: azipmwpbgqadtjafhmth
+21: 0
+22: 1
+23: 7
+24: 6
+25: 9
+26: 7
+27: 2
+28: 4
+29: 0
+30: 2
+31: 3
+32: 8
+33: 1
+34: 2
+35: 3
+36: 4
+37: 6
+38: 8
+39: 4
+40: 2
+41: 0
+42: 1
+43: 7
+44: 6
+45: 9
+46: 7
+47: 2
+48: 4
+49: 0
+50: 2
+51: 3
+52: 8
+53: 1
+54: 2
+55: 3
+56: 4
+57: 6
+58: 8
+59: 4
+60: 2
+61: 0
+62: 1
+63: 7
+64: 6
+65: 9
+66: 7
+67: 2
+68: 4
+69: 0
+70: 2
+71: 3
+72: 8
+73: 1
+74: 2
+75: 3
+76: 4
+77: 6
+78: 8
+79: 4
+80: 2
+81: 0
+82: 1
+83: 7
+84: 6
+85: 9
+86: 7
+87: 2
+88: 4
+89: 0
+90: 2
+91: 3
+92: 8
+93: 1
+94: 2
+95: 3
+96: 4
+97: 6
+98: 8
+99: 4
+
+New Call: 11111111111
+Into layer 0
+next: 1
+Route 1 continue at 1
+Into layer 1
+Route 2 start at 1 word = ji
+Into layer 2
+Route 1 continue at 1
+Into layer 3
+Route 2 start at 1 word = ji
+Into layer 4
+Route 1 continue at 1
+Into layer 5
+Route 2 start at 1 word = ji
+Into layer 6
+Route 1 continue at 1
+Into layer 7
+Route 2 start at 1 word = ji
+Into layer 8
+Route 1 continue at 1
+Into layer 9
+Route 2 start at 1 word = ji
+Into layer 10
+reach end, last word: i
+Route 2 done, b1 = 2
+return 2
+Route 1 done, b1 = 2
+Route 2 start at 1 word = i
+Into layer 9
+pre stored, return 3
+Route 2 done, b1 = 4
+Comparing b1 and b2
+b1 has count: 2
+b2 has count: 4
+At 8 best is continue, count = 2
+return 2
+Route 2 done, b1 = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 1 word = i
+Into layer 7
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 6 best is continue, count = 3
+return 3
+Route 2 done, b1 = 4
+return 4
+Route 1 done, b1 = 4
+Route 2 start at 1 word = i
+Into layer 5
+pre stored, return 5
+Route 2 done, b1 = 6
+Comparing b1 and b2
+b1 has count: 4
+b2 has count: 6
+At 4 best is continue, count = 4
+return 4
+Route 2 done, b1 = 5
+return 5
+Route 1 done, b1 = 5
+Route 2 start at 1 word = i
+Into layer 3
+pre stored, return 6
+Route 2 done, b1 = 7
+Comparing b1 and b2
+b1 has count: 5
+b2 has count: 7
+At 2 best is continue, count = 5
+return 5
+Route 2 done, b1 = 6
+return 6
+Route 1 done, b1 = 6
+Route 2 start at 1 word = i
+Into layer 1
+pre stored, return 7
+Route 2 done, b1 = 8
+Comparing b1 and b2
+b1 has count: 6
+b2 has count: 8
+At 0 best is continue, count = 6
+return 6
+Done, count = 6
+
+11111111111
+Parse done, output:
+0: 1
+1: 1
+2: 1
+finally word: ji
+3: 1
+4: 1
+finally word: ji
+5: 1
+6: 1
+finally word: ji
+7: 1
+8: 1
+finally word: ji
+9: 1
+10: 1
+finally word: ji
+
+New Call: 2222222322222222322222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322
+Into layer 0
+next: 2
+Route 1 continue at 2
+Into layer 1
+Route 1 continue at 2
+Into layer 2
+next: 2
+Route 2 start at 2 word = aaaa
+Into layer 3
+Route 1 continue at 2
+Into layer 4
+Route 1 continue at 2
+Into layer 5
+Dead End, No word available
+Route 1 done, b1 = -10
+Route 2 start at 2 word = aa
+Into layer 5
+Route 1 continue at 3
+Into layer 6
+next: 2
+Route 2 start at 2 word = afa
+Into layer 7
+Route 1 continue at 2
+Into layer 8
+Route 1 continue at 2
+Into layer 9
+next: 2
+Route 2 start at 2 word = aaaa
+Into layer 10
+Route 1 continue at 2
+Into layer 11
+Route 1 continue at 2
+Into layer 12
+Dead End, No word available
+Route 1 done, b1 = -10
+Route 2 start at 2 word = aa
+Into layer 12
+Route 1 continue at 3
+Into layer 13
+next: 2
+Route 2 start at 2 word = afa
+Into layer 14
+Route 1 continue at 2
+Into layer 15
+Route 1 continue at 2
+Into layer 16
+next: 2
+None valid branch, return -10
+Route 1 done, b1 = -10
+Route 2 start at 2 word = aa
+Into layer 16
+Route 1 continue at 2
+Into layer 17
+Route 1 continue at 3
+Into layer 18
+next: 2
+next: 2
+Route 2 start at 2 word = aafaa
+Into layer 19
+Route 1 continue at 2
+Into layer 20
+Route 1 continue at 2
+Into layer 21
+next: 2
+Route 2 start at 2 word = aaaa
+Into layer 22
+Route 1 continue at 2
+Into layer 23
+Route 1 continue at 3
+Into layer 24
+next: 2
+next: 2
+Route 2 start at 2 word = aafaa
+Into layer 25
+Route 1 continue at 2
+Into layer 26
+Route 1 continue at 2
+Into layer 27
+next: 2
+Route 2 start at 2 word = aaaa
+Into layer 28
+Route 1 continue at 2
+Into layer 29
+Route 1 continue at 3
+Into layer 30
+next: 2
+next: 2
+Route 2 start at 2 word = aafaa
+Into layer 31
+Route 1 continue at 2
+Into layer 32
+Route 1 continue at 2
+Into layer 33
+next: 2
+Route 2 start at 2 word = aaaa
+Into layer 34
+Route 1 continue at 2
+Into layer 35
+Route 1 continue at 3
+Into layer 36
+next: 2
+next: 2
+Route 2 start at 2 word = aafaa
+Into layer 37
+Route 1 continue at 2
+Into layer 38
+Route 1 continue at 2
+Into layer 39
+next: 2
+Route 2 start at 2 word = aaaa
+Into layer 40
+Route 1 continue at 2
+Into layer 41
+Route 1 continue at 3
+Into layer 42
+next: 2
+next: 2
+Route 2 start at 2 word = aafaa
+Into layer 43
+Route 1 continue at 2
+Into layer 44
+Route 1 continue at 2
+Into layer 45
+next: 2
+Route 2 start at 2 word = aaaa
+Into layer 46
+Route 1 continue at 2
+Into layer 47
+Route 1 continue at 3
+Into layer 48
+next: 2
+next: 2
+Route 2 start at 2 word = aafaa
+Into layer 49
+Route 1 continue at 2
+Into layer 50
+Route 1 continue at 2
+Into layer 51
+next: 2
+Route 2 start at 2 word = aaaa
+Into layer 52
+Route 1 continue at 2
+Into layer 53
+Route 1 continue at 3
+Into layer 54
+next: 2
+next: 2
+Route 2 start at 2 word = aafaa
+Into layer 55
+Route 1 continue at 2
+Into layer 56
+Route 1 continue at 2
+Into layer 57
+next: 2
+Route 2 start at 2 word = aaaa
+Into layer 58
+Route 1 continue at 2
+Into layer 59
+Route 1 continue at 3
+Into layer 60
+next: 2
+next: 2
+Route 2 start at 2 word = aafaa
+Into layer 61
+Route 1 continue at 2
+Into layer 62
+Route 1 continue at 2
+Into layer 63
+next: 2
+Route 2 start at 2 word = aaaa
+Into layer 64
+Route 1 continue at 2
+Into layer 65
+Route 1 continue at 3
+Into layer 66
+next: 2
+next: 2
+Route 2 start at 2 word = aafaa
+Into layer 67
+Route 1 continue at 2
+Into layer 68
+Route 1 continue at 2
+Into layer 69
+next: 2
+Route 2 start at 2 word = aaaa
+Into layer 70
+Route 1 continue at 2
+Into layer 71
+Route 1 continue at 3
+Into layer 72
+next: 2
+next: 2
+Route 2 start at 2 word = aafaa
+Into layer 73
+Route 1 continue at 2
+Into layer 74
+Route 1 continue at 2
+Into layer 75
+next: 2
+Route 2 start at 2 word = aaaa
+Into layer 76
+Route 1 continue at 2
+Into layer 77
+Route 1 continue at 3
+Into layer 78
+next: 2
+next: 2
+Route 2 start at 2 word = aafaa
+Into layer 79
+Route 1 continue at 2
+Into layer 80
+Route 1 continue at 2
+Into layer 81
+next: 2
+Route 2 start at 2 word = aaaa
+Into layer 82
+Route 1 continue at 2
+Into layer 83
+Route 1 continue at 3
+Into layer 84
+next: 2
+next: 2
+Route 2 start at 2 word = aafaa
+Into layer 85
+Route 1 continue at 2
+Into layer 86
+Route 1 continue at 2
+Into layer 87
+next: 2
+Route 2 start at 2 word = aaaa
+Into layer 88
+Route 1 continue at 2
+Into layer 89
+Route 1 continue at 3
+Into layer 90
+next: 2
+next: 2
+Route 2 start at 2 word = aafaa
+Into layer 91
+Route 1 continue at 2
+Into layer 92
+Route 1 continue at 2
+Into layer 93
+next: 2
+Route 2 start at 2 word = aaaa
+Into layer 94
+Route 1 continue at 2
+Into layer 95
+Route 1 continue at 3
+Into layer 96
+next: 2
+next: 2
+Route 2 start at 2 word = aafaa
+Into layer 97
+Route 1 continue at 2
+Into layer 98
+Route 1 continue at 2
+Into layer 99
+next: 2
+Route 2 start at 2 word = aaaa
+Into layer 100
+Route 1 continue at 2
+Into layer 101
+Route 1 continue at 3
+Into layer 102
+next: 2
+next: 2
+Route 2 start at 2 word = aafaa
+Into layer 103
+Route 1 continue at 2
+Into layer 104
+Route 1 continue at 2
+Into layer 105
+next: 2
+Route 2 start at 2 word = aaaa
+Into layer 106
+Route 1 continue at 2
+Into layer 107
+Route 1 continue at 3
+Into layer 108
+next: 2
+next: 2
+Route 2 start at 2 word = aafaa
+Into layer 109
+Route 1 continue at 2
+Into layer 110
+Route 1 continue at 2
+Into layer 111
+next: 2
+Route 2 start at 2 word = aaaa
+Into layer 112
+Route 1 continue at 2
+Into layer 113
+Route 1 continue at 3
+Into layer 114
+next: 2
+next: 2
+Route 2 start at 2 word = aafaa
+Into layer 115
+Route 1 continue at 2
+Into layer 116
+Route 1 continue at 2
+Into layer 117
+next: 2
+Route 2 start at 2 word = aaaa
+Into layer 118
+Route 1 continue at 2
+Into layer 119
+Route 1 continue at 3
+Into layer 120
+next: 2
+next: 2
+Route 2 start at 2 word = aafaa
+Into layer 121
+Route 1 continue at 2
+Into layer 122
+Route 1 continue at 2
+Into layer 123
+next: 2
+Route 2 start at 2 word = aaaa
+Into layer 124
+Route 1 continue at 2
+Into layer 125
+Route 1 continue at 3
+Into layer 126
+next: 2
+next: 2
+Route 2 start at 2 word = aafaa
+Into layer 127
+Route 1 continue at 2
+Into layer 128
+Route 1 continue at 2
+Into layer 129
+next: 2
+Route 2 start at 2 word = aaaa
+Into layer 130
+Route 1 continue at 2
+Into layer 131
+Route 1 continue at 3
+Into layer 132
+next: 2
+next: 2
+Route 2 start at 2 word = aafaa
+Into layer 133
+Route 1 continue at 2
+Into layer 134
+Route 1 continue at 2
+Into layer 135
+next: 2
+Route 2 start at 2 word = aaaa
+Into layer 136
+Route 1 continue at 2
+Into layer 137
+Route 1 continue at 3
+Into layer 138
+next: 2
+next: 2
+Route 2 start at 2 word = aafaa
+Into layer 139
+Route 1 continue at 2
+Into layer 140
+Route 1 continue at 2
+Into layer 141
+next: 2
+Route 2 start at 2 word = aaaa
+Into layer 142
+Route 1 continue at 2
+Into layer 143
+Route 1 continue at 3
+Into layer 144
+next: 2
+next: 2
+Route 2 start at 2 word = aafaa
+Into layer 145
+Route 1 continue at 2
+Into layer 146
+Route 1 continue at 2
+Into layer 147
+next: 2
+Route 2 start at 2 word = aaaa
+Into layer 148
+Route 1 continue at 2
+Into layer 149
+Route 1 continue at 3
+Into layer 150
+next: 2
+next: 2
+Route 2 start at 2 word = aafaa
+Into layer 151
+Route 1 continue at 2
+Into layer 152
+Route 1 continue at 2
+Into layer 153
+next: 2
+Route 2 start at 2 word = aaaa
+Into layer 154
+Route 1 continue at 2
+Into layer 155
+Route 1 continue at 3
+Into layer 156
+next: 2
+next: 2
+Route 2 start at 2 word = aafaa
+Into layer 157
+Route 1 continue at 2
+Into layer 158
+Route 1 continue at 2
+Into layer 159
+next: 2
+Route 2 start at 2 word = aaaa
+Into layer 160
+Route 1 continue at 2
+Into layer 161
+Route 1 continue at 3
+Into layer 162
+next: 2
+next: 2
+Route 2 start at 2 word = aafaa
+Into layer 163
+Route 1 continue at 2
+Into layer 164
+Route 1 continue at 2
+Into layer 165
+next: 2
+Route 2 start at 2 word = aaaa
+Into layer 166
+Route 1 continue at 2
+Into layer 167
+Route 1 continue at 3
+Into layer 168
+next: 2
+next: 2
+Route 2 start at 2 word = aafaa
+Into layer 169
+Route 1 continue at 2
+Into layer 170
+Route 1 continue at 2
+Into layer 171
+next: 2
+Route 2 start at 2 word = aaaa
+Into layer 172
+Route 1 continue at 2
+Into layer 173
+Route 1 continue at 3
+Into layer 174
+next: 2
+next: 2
+Route 2 start at 2 word = aafaa
+Into layer 175
+Route 1 continue at 2
+Into layer 176
+Route 1 continue at 2
+Into layer 177
+next: 2
+Route 2 start at 2 word = aaaa
+Into layer 178
+Route 1 continue at 2
+Into layer 179
+Route 1 continue at 3
+Into layer 180
+next: 2
+next: 2
+reach end, last word: aafaa
+Route 1 done, b1 = 1
+return 1
+Route 1 done, b1 = 1
+Route 2 start at 2 word = a
+Into layer 179
+pre stored, return 2
+Route 2 done, b1 = 3
+Comparing b1 and b2
+b1 has count: 1
+b2 has count: 3
+At 178 best is continue, count = 1
+return 1
+Route 2 done, b1 = 2
+return 2
+Route 1 done, b1 = 2
+Route 2 start at 2 word = aa
+Into layer 177
+Route 1 continue at 2
+Into layer 178
+pre stored, return 3
+Route 1 done, b1 = 3
+Route 2 start at 2 word = a
+Into layer 178
+pre stored, return 3
+Route 2 done, b1 = 4
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 4
+At 177 best is continue, count = 3
+return 3
+Route 2 done, b1 = 4
+Comparing b1 and b2
+b1 has count: 2
+b2 has count: 4
+At 176 best is continue, count = 2
+return 2
+Route 1 done, b1 = 2
+Route 2 start at 2 word = a
+Into layer 176
+pre stored, return 3
+Route 2 done, b1 = 4
+Comparing b1 and b2
+b1 has count: 2
+b2 has count: 4
+At 175 best is continue, count = 2
+return 2
+Route 2 done, b1 = 3
+return 3
+Route 1 done, b1 = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 2 word = a
+Into layer 173
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 172 best is continue, count = 3
+return 3
+Route 2 done, b1 = 4
+return 4
+Route 1 done, b1 = 4
+Route 2 start at 2 word = aa
+Into layer 171
+Route 1 continue at 2
+Into layer 172
+pre stored, return 5
+Route 1 done, b1 = 5
+Route 2 start at 2 word = a
+Into layer 172
+pre stored, return 5
+Route 2 done, b1 = 6
+Comparing b1 and b2
+b1 has count: 5
+b2 has count: 6
+At 171 best is continue, count = 5
+return 5
+Route 2 done, b1 = 6
+Comparing b1 and b2
+b1 has count: 4
+b2 has count: 6
+At 170 best is continue, count = 4
+return 4
+Route 1 done, b1 = 4
+Route 2 start at 2 word = a
+Into layer 170
+pre stored, return 5
+Route 2 done, b1 = 6
+Comparing b1 and b2
+b1 has count: 4
+b2 has count: 6
+At 169 best is continue, count = 4
+return 4
+Route 2 done, b1 = 5
+return 5
+Route 1 done, b1 = 5
+return 5
+Route 1 done, b1 = 5
+Route 2 start at 2 word = a
+Into layer 167
+pre stored, return 6
+Route 2 done, b1 = 7
+Comparing b1 and b2
+b1 has count: 5
+b2 has count: 7
+At 166 best is continue, count = 5
+return 5
+Route 2 done, b1 = 6
+return 6
+Route 1 done, b1 = 6
+Route 2 start at 2 word = aa
+Into layer 165
+Route 1 continue at 2
+Into layer 166
+pre stored, return 7
+Route 1 done, b1 = 7
+Route 2 start at 2 word = a
+Into layer 166
+pre stored, return 7
+Route 2 done, b1 = 8
+Comparing b1 and b2
+b1 has count: 7
+b2 has count: 8
+At 165 best is continue, count = 7
+return 7
+Route 2 done, b1 = 8
+Comparing b1 and b2
+b1 has count: 6
+b2 has count: 8
+At 164 best is continue, count = 6
+return 6
+Route 1 done, b1 = 6
+Route 2 start at 2 word = a
+Into layer 164
+pre stored, return 7
+Route 2 done, b1 = 8
+Comparing b1 and b2
+b1 has count: 6
+b2 has count: 8
+At 163 best is continue, count = 6
+return 6
+Route 2 done, b1 = 7
+return 7
+Route 1 done, b1 = 7
+return 7
+Route 1 done, b1 = 7
+Route 2 start at 2 word = a
+Into layer 161
+pre stored, return 8
+Route 2 done, b1 = 9
+Comparing b1 and b2
+b1 has count: 7
+b2 has count: 9
+At 160 best is continue, count = 7
+return 7
+Route 2 done, b1 = 8
+return 8
+Route 1 done, b1 = 8
+Route 2 start at 2 word = aa
+Into layer 159
+Route 1 continue at 2
+Into layer 160
+pre stored, return 9
+Route 1 done, b1 = 9
+Route 2 start at 2 word = a
+Into layer 160
+pre stored, return 9
+Route 2 done, b1 = 10
+Comparing b1 and b2
+b1 has count: 9
+b2 has count: 10
+At 159 best is continue, count = 9
+return 9
+Route 2 done, b1 = 10
+Comparing b1 and b2
+b1 has count: 8
+b2 has count: 10
+At 158 best is continue, count = 8
+return 8
+Route 1 done, b1 = 8
+Route 2 start at 2 word = a
+Into layer 158
+pre stored, return 9
+Route 2 done, b1 = 10
+Comparing b1 and b2
+b1 has count: 8
+b2 has count: 10
+At 157 best is continue, count = 8
+return 8
+Route 2 done, b1 = 9
+return 9
+Route 1 done, b1 = 9
+return 9
+Route 1 done, b1 = 9
+Route 2 start at 2 word = a
+Into layer 155
+pre stored, return 10
+Route 2 done, b1 = 11
+Comparing b1 and b2
+b1 has count: 9
+b2 has count: 11
+At 154 best is continue, count = 9
+return 9
+Route 2 done, b1 = 10
+return 10
+Route 1 done, b1 = 10
+Route 2 start at 2 word = aa
+Into layer 153
+Route 1 continue at 2
+Into layer 154
+pre stored, return 11
+Route 1 done, b1 = 11
+Route 2 start at 2 word = a
+Into layer 154
+pre stored, return 11
+Route 2 done, b1 = 12
+Comparing b1 and b2
+b1 has count: 11
+b2 has count: 12
+At 153 best is continue, count = 11
+return 11
+Route 2 done, b1 = 12
+Comparing b1 and b2
+b1 has count: 10
+b2 has count: 12
+At 152 best is continue, count = 10
+return 10
+Route 1 done, b1 = 10
+Route 2 start at 2 word = a
+Into layer 152
+pre stored, return 11
+Route 2 done, b1 = 12
+Comparing b1 and b2
+b1 has count: 10
+b2 has count: 12
+At 151 best is continue, count = 10
+return 10
+Route 2 done, b1 = 11
+return 11
+Route 1 done, b1 = 11
+return 11
+Route 1 done, b1 = 11
+Route 2 start at 2 word = a
+Into layer 149
+pre stored, return 12
+Route 2 done, b1 = 13
+Comparing b1 and b2
+b1 has count: 11
+b2 has count: 13
+At 148 best is continue, count = 11
+return 11
+Route 2 done, b1 = 12
+return 12
+Route 1 done, b1 = 12
+Route 2 start at 2 word = aa
+Into layer 147
+Route 1 continue at 2
+Into layer 148
+pre stored, return 13
+Route 1 done, b1 = 13
+Route 2 start at 2 word = a
+Into layer 148
+pre stored, return 13
+Route 2 done, b1 = 14
+Comparing b1 and b2
+b1 has count: 13
+b2 has count: 14
+At 147 best is continue, count = 13
+return 13
+Route 2 done, b1 = 14
+Comparing b1 and b2
+b1 has count: 12
+b2 has count: 14
+At 146 best is continue, count = 12
+return 12
+Route 1 done, b1 = 12
+Route 2 start at 2 word = a
+Into layer 146
+pre stored, return 13
+Route 2 done, b1 = 14
+Comparing b1 and b2
+b1 has count: 12
+b2 has count: 14
+At 145 best is continue, count = 12
+return 12
+Route 2 done, b1 = 13
+return 13
+Route 1 done, b1 = 13
+return 13
+Route 1 done, b1 = 13
+Route 2 start at 2 word = a
+Into layer 143
+pre stored, return 14
+Route 2 done, b1 = 15
+Comparing b1 and b2
+b1 has count: 13
+b2 has count: 15
+At 142 best is continue, count = 13
+return 13
+Route 2 done, b1 = 14
+return 14
+Route 1 done, b1 = 14
+Route 2 start at 2 word = aa
+Into layer 141
+Route 1 continue at 2
+Into layer 142
+pre stored, return 15
+Route 1 done, b1 = 15
+Route 2 start at 2 word = a
+Into layer 142
+pre stored, return 15
+Route 2 done, b1 = 16
+Comparing b1 and b2
+b1 has count: 15
+b2 has count: 16
+At 141 best is continue, count = 15
+return 15
+Route 2 done, b1 = 16
+Comparing b1 and b2
+b1 has count: 14
+b2 has count: 16
+At 140 best is continue, count = 14
+return 14
+Route 1 done, b1 = 14
+Route 2 start at 2 word = a
+Into layer 140
+pre stored, return 15
+Route 2 done, b1 = 16
+Comparing b1 and b2
+b1 has count: 14
+b2 has count: 16
+At 139 best is continue, count = 14
+return 14
+Route 2 done, b1 = 15
+return 15
+Route 1 done, b1 = 15
+return 15
+Route 1 done, b1 = 15
+Route 2 start at 2 word = a
+Into layer 137
+pre stored, return 16
+Route 2 done, b1 = 17
+Comparing b1 and b2
+b1 has count: 15
+b2 has count: 17
+At 136 best is continue, count = 15
+return 15
+Route 2 done, b1 = 16
+return 16
+Route 1 done, b1 = 16
+Route 2 start at 2 word = aa
+Into layer 135
+Route 1 continue at 2
+Into layer 136
+pre stored, return 17
+Route 1 done, b1 = 17
+Route 2 start at 2 word = a
+Into layer 136
+pre stored, return 17
+Route 2 done, b1 = 18
+Comparing b1 and b2
+b1 has count: 17
+b2 has count: 18
+At 135 best is continue, count = 17
+return 17
+Route 2 done, b1 = 18
+Comparing b1 and b2
+b1 has count: 16
+b2 has count: 18
+At 134 best is continue, count = 16
+return 16
+Route 1 done, b1 = 16
+Route 2 start at 2 word = a
+Into layer 134
+pre stored, return 17
+Route 2 done, b1 = 18
+Comparing b1 and b2
+b1 has count: 16
+b2 has count: 18
+At 133 best is continue, count = 16
+return 16
+Route 2 done, b1 = 17
+return 17
+Route 1 done, b1 = 17
+return 17
+Route 1 done, b1 = 17
+Route 2 start at 2 word = a
+Into layer 131
+pre stored, return 18
+Route 2 done, b1 = 19
+Comparing b1 and b2
+b1 has count: 17
+b2 has count: 19
+At 130 best is continue, count = 17
+return 17
+Route 2 done, b1 = 18
+return 18
+Route 1 done, b1 = 18
+Route 2 start at 2 word = aa
+Into layer 129
+Route 1 continue at 2
+Into layer 130
+pre stored, return 19
+Route 1 done, b1 = 19
+Route 2 start at 2 word = a
+Into layer 130
+pre stored, return 19
+Route 2 done, b1 = 20
+Comparing b1 and b2
+b1 has count: 19
+b2 has count: 20
+At 129 best is continue, count = 19
+return 19
+Route 2 done, b1 = 20
+Comparing b1 and b2
+b1 has count: 18
+b2 has count: 20
+At 128 best is continue, count = 18
+return 18
+Route 1 done, b1 = 18
+Route 2 start at 2 word = a
+Into layer 128
+pre stored, return 19
+Route 2 done, b1 = 20
+Comparing b1 and b2
+b1 has count: 18
+b2 has count: 20
+At 127 best is continue, count = 18
+return 18
+Route 2 done, b1 = 19
+return 19
+Route 1 done, b1 = 19
+return 19
+Route 1 done, b1 = 19
+Route 2 start at 2 word = a
+Into layer 125
+pre stored, return 20
+Route 2 done, b1 = 21
+Comparing b1 and b2
+b1 has count: 19
+b2 has count: 21
+At 124 best is continue, count = 19
+return 19
+Route 2 done, b1 = 20
+return 20
+Route 1 done, b1 = 20
+Route 2 start at 2 word = aa
+Into layer 123
+Route 1 continue at 2
+Into layer 124
+pre stored, return 21
+Route 1 done, b1 = 21
+Route 2 start at 2 word = a
+Into layer 124
+pre stored, return 21
+Route 2 done, b1 = 22
+Comparing b1 and b2
+b1 has count: 21
+b2 has count: 22
+At 123 best is continue, count = 21
+return 21
+Route 2 done, b1 = 22
+Comparing b1 and b2
+b1 has count: 20
+b2 has count: 22
+At 122 best is continue, count = 20
+return 20
+Route 1 done, b1 = 20
+Route 2 start at 2 word = a
+Into layer 122
+pre stored, return 21
+Route 2 done, b1 = 22
+Comparing b1 and b2
+b1 has count: 20
+b2 has count: 22
+At 121 best is continue, count = 20
+return 20
+Route 2 done, b1 = 21
+return 21
+Route 1 done, b1 = 21
+return 21
+Route 1 done, b1 = 21
+Route 2 start at 2 word = a
+Into layer 119
+pre stored, return 22
+Route 2 done, b1 = 23
+Comparing b1 and b2
+b1 has count: 21
+b2 has count: 23
+At 118 best is continue, count = 21
+return 21
+Route 2 done, b1 = 22
+return 22
+Route 1 done, b1 = 22
+Route 2 start at 2 word = aa
+Into layer 117
+Route 1 continue at 2
+Into layer 118
+pre stored, return 23
+Route 1 done, b1 = 23
+Route 2 start at 2 word = a
+Into layer 118
+pre stored, return 23
+Route 2 done, b1 = 24
+Comparing b1 and b2
+b1 has count: 23
+b2 has count: 24
+At 117 best is continue, count = 23
+return 23
+Route 2 done, b1 = 24
+Comparing b1 and b2
+b1 has count: 22
+b2 has count: 24
+At 116 best is continue, count = 22
+return 22
+Route 1 done, b1 = 22
+Route 2 start at 2 word = a
+Into layer 116
+pre stored, return 23
+Route 2 done, b1 = 24
+Comparing b1 and b2
+b1 has count: 22
+b2 has count: 24
+At 115 best is continue, count = 22
+return 22
+Route 2 done, b1 = 23
+return 23
+Route 1 done, b1 = 23
+return 23
+Route 1 done, b1 = 23
+Route 2 start at 2 word = a
+Into layer 113
+pre stored, return 24
+Route 2 done, b1 = 25
+Comparing b1 and b2
+b1 has count: 23
+b2 has count: 25
+At 112 best is continue, count = 23
+return 23
+Route 2 done, b1 = 24
+return 24
+Route 1 done, b1 = 24
+Route 2 start at 2 word = aa
+Into layer 111
+Route 1 continue at 2
+Into layer 112
+pre stored, return 25
+Route 1 done, b1 = 25
+Route 2 start at 2 word = a
+Into layer 112
+pre stored, return 25
+Route 2 done, b1 = 26
+Comparing b1 and b2
+b1 has count: 25
+b2 has count: 26
+At 111 best is continue, count = 25
+return 25
+Route 2 done, b1 = 26
+Comparing b1 and b2
+b1 has count: 24
+b2 has count: 26
+At 110 best is continue, count = 24
+return 24
+Route 1 done, b1 = 24
+Route 2 start at 2 word = a
+Into layer 110
+pre stored, return 25
+Route 2 done, b1 = 26
+Comparing b1 and b2
+b1 has count: 24
+b2 has count: 26
+At 109 best is continue, count = 24
+return 24
+Route 2 done, b1 = 25
+return 25
+Route 1 done, b1 = 25
+return 25
+Route 1 done, b1 = 25
+Route 2 start at 2 word = a
+Into layer 107
+pre stored, return 26
+Route 2 done, b1 = 27
+Comparing b1 and b2
+b1 has count: 25
+b2 has count: 27
+At 106 best is continue, count = 25
+return 25
+Route 2 done, b1 = 26
+return 26
+Route 1 done, b1 = 26
+Route 2 start at 2 word = aa
+Into layer 105
+Route 1 continue at 2
+Into layer 106
+pre stored, return 27
+Route 1 done, b1 = 27
+Route 2 start at 2 word = a
+Into layer 106
+pre stored, return 27
+Route 2 done, b1 = 28
+Comparing b1 and b2
+b1 has count: 27
+b2 has count: 28
+At 105 best is continue, count = 27
+return 27
+Route 2 done, b1 = 28
+Comparing b1 and b2
+b1 has count: 26
+b2 has count: 28
+At 104 best is continue, count = 26
+return 26
+Route 1 done, b1 = 26
+Route 2 start at 2 word = a
+Into layer 104
+pre stored, return 27
+Route 2 done, b1 = 28
+Comparing b1 and b2
+b1 has count: 26
+b2 has count: 28
+At 103 best is continue, count = 26
+return 26
+Route 2 done, b1 = 27
+return 27
+Route 1 done, b1 = 27
+return 27
+Route 1 done, b1 = 27
+Route 2 start at 2 word = a
+Into layer 101
+pre stored, return 28
+Route 2 done, b1 = 29
+Comparing b1 and b2
+b1 has count: 27
+b2 has count: 29
+At 100 best is continue, count = 27
+return 27
+Route 2 done, b1 = 28
+return 28
+Route 1 done, b1 = 28
+Route 2 start at 2 word = aa
+Into layer 99
+Route 1 continue at 2
+Into layer 100
+pre stored, return 29
+Route 1 done, b1 = 29
+Route 2 start at 2 word = a
+Into layer 100
+pre stored, return 29
+Route 2 done, b1 = 30
+Comparing b1 and b2
+b1 has count: 29
+b2 has count: 30
+At 99 best is continue, count = 29
+return 29
+Route 2 done, b1 = 30
+Comparing b1 and b2
+b1 has count: 28
+b2 has count: 30
+At 98 best is continue, count = 28
+return 28
+Route 1 done, b1 = 28
+Route 2 start at 2 word = a
+Into layer 98
+pre stored, return 29
+Route 2 done, b1 = 30
+Comparing b1 and b2
+b1 has count: 28
+b2 has count: 30
+At 97 best is continue, count = 28
+return 28
+Route 2 done, b1 = 29
+return 29
+Route 1 done, b1 = 29
+return 29
+Route 1 done, b1 = 29
+Route 2 start at 2 word = a
+Into layer 95
+pre stored, return 30
+Route 2 done, b1 = 31
+Comparing b1 and b2
+b1 has count: 29
+b2 has count: 31
+At 94 best is continue, count = 29
+return 29
+Route 2 done, b1 = 30
+return 30
+Route 1 done, b1 = 30
+Route 2 start at 2 word = aa
+Into layer 93
+Route 1 continue at 2
+Into layer 94
+pre stored, return 31
+Route 1 done, b1 = 31
+Route 2 start at 2 word = a
+Into layer 94
+pre stored, return 31
+Route 2 done, b1 = 32
+Comparing b1 and b2
+b1 has count: 31
+b2 has count: 32
+At 93 best is continue, count = 31
+return 31
+Route 2 done, b1 = 32
+Comparing b1 and b2
+b1 has count: 30
+b2 has count: 32
+At 92 best is continue, count = 30
+return 30
+Route 1 done, b1 = 30
+Route 2 start at 2 word = a
+Into layer 92
+pre stored, return 31
+Route 2 done, b1 = 32
+Comparing b1 and b2
+b1 has count: 30
+b2 has count: 32
+At 91 best is continue, count = 30
+return 30
+Route 2 done, b1 = 31
+return 31
+Route 1 done, b1 = 31
+return 31
+Route 1 done, b1 = 31
+Route 2 start at 2 word = a
+Into layer 89
+pre stored, return 32
+Route 2 done, b1 = 33
+Comparing b1 and b2
+b1 has count: 31
+b2 has count: 33
+At 88 best is continue, count = 31
+return 31
+Route 2 done, b1 = 32
+return 32
+Route 1 done, b1 = 32
+Route 2 start at 2 word = aa
+Into layer 87
+Route 1 continue at 2
+Into layer 88
+pre stored, return 33
+Route 1 done, b1 = 33
+Route 2 start at 2 word = a
+Into layer 88
+pre stored, return 33
+Route 2 done, b1 = 34
+Comparing b1 and b2
+b1 has count: 33
+b2 has count: 34
+At 87 best is continue, count = 33
+return 33
+Route 2 done, b1 = 34
+Comparing b1 and b2
+b1 has count: 32
+b2 has count: 34
+At 86 best is continue, count = 32
+return 32
+Route 1 done, b1 = 32
+Route 2 start at 2 word = a
+Into layer 86
+pre stored, return 33
+Route 2 done, b1 = 34
+Comparing b1 and b2
+b1 has count: 32
+b2 has count: 34
+At 85 best is continue, count = 32
+return 32
+Route 2 done, b1 = 33
+return 33
+Route 1 done, b1 = 33
+return 33
+Route 1 done, b1 = 33
+Route 2 start at 2 word = a
+Into layer 83
+pre stored, return 34
+Route 2 done, b1 = 35
+Comparing b1 and b2
+b1 has count: 33
+b2 has count: 35
+At 82 best is continue, count = 33
+return 33
+Route 2 done, b1 = 34
+return 34
+Route 1 done, b1 = 34
+Route 2 start at 2 word = aa
+Into layer 81
+Route 1 continue at 2
+Into layer 82
+pre stored, return 35
+Route 1 done, b1 = 35
+Route 2 start at 2 word = a
+Into layer 82
+pre stored, return 35
+Route 2 done, b1 = 36
+Comparing b1 and b2
+b1 has count: 35
+b2 has count: 36
+At 81 best is continue, count = 35
+return 35
+Route 2 done, b1 = 36
+Comparing b1 and b2
+b1 has count: 34
+b2 has count: 36
+At 80 best is continue, count = 34
+return 34
+Route 1 done, b1 = 34
+Route 2 start at 2 word = a
+Into layer 80
+pre stored, return 35
+Route 2 done, b1 = 36
+Comparing b1 and b2
+b1 has count: 34
+b2 has count: 36
+At 79 best is continue, count = 34
+return 34
+Route 2 done, b1 = 35
+return 35
+Route 1 done, b1 = 35
+return 35
+Route 1 done, b1 = 35
+Route 2 start at 2 word = a
+Into layer 77
+pre stored, return 36
+Route 2 done, b1 = 37
+Comparing b1 and b2
+b1 has count: 35
+b2 has count: 37
+At 76 best is continue, count = 35
+return 35
+Route 2 done, b1 = 36
+return 36
+Route 1 done, b1 = 36
+Route 2 start at 2 word = aa
+Into layer 75
+Route 1 continue at 2
+Into layer 76
+pre stored, return 37
+Route 1 done, b1 = 37
+Route 2 start at 2 word = a
+Into layer 76
+pre stored, return 37
+Route 2 done, b1 = 38
+Comparing b1 and b2
+b1 has count: 37
+b2 has count: 38
+At 75 best is continue, count = 37
+return 37
+Route 2 done, b1 = 38
+Comparing b1 and b2
+b1 has count: 36
+b2 has count: 38
+At 74 best is continue, count = 36
+return 36
+Route 1 done, b1 = 36
+Route 2 start at 2 word = a
+Into layer 74
+pre stored, return 37
+Route 2 done, b1 = 38
+Comparing b1 and b2
+b1 has count: 36
+b2 has count: 38
+At 73 best is continue, count = 36
+return 36
+Route 2 done, b1 = 37
+return 37
+Route 1 done, b1 = 37
+return 37
+Route 1 done, b1 = 37
+Route 2 start at 2 word = a
+Into layer 71
+pre stored, return 38
+Route 2 done, b1 = 39
+Comparing b1 and b2
+b1 has count: 37
+b2 has count: 39
+At 70 best is continue, count = 37
+return 37
+Route 2 done, b1 = 38
+return 38
+Route 1 done, b1 = 38
+Route 2 start at 2 word = aa
+Into layer 69
+Route 1 continue at 2
+Into layer 70
+pre stored, return 39
+Route 1 done, b1 = 39
+Route 2 start at 2 word = a
+Into layer 70
+pre stored, return 39
+Route 2 done, b1 = 40
+Comparing b1 and b2
+b1 has count: 39
+b2 has count: 40
+At 69 best is continue, count = 39
+return 39
+Route 2 done, b1 = 40
+Comparing b1 and b2
+b1 has count: 38
+b2 has count: 40
+At 68 best is continue, count = 38
+return 38
+Route 1 done, b1 = 38
+Route 2 start at 2 word = a
+Into layer 68
+pre stored, return 39
+Route 2 done, b1 = 40
+Comparing b1 and b2
+b1 has count: 38
+b2 has count: 40
+At 67 best is continue, count = 38
+return 38
+Route 2 done, b1 = 39
+return 39
+Route 1 done, b1 = 39
+return 39
+Route 1 done, b1 = 39
+Route 2 start at 2 word = a
+Into layer 65
+pre stored, return 40
+Route 2 done, b1 = 41
+Comparing b1 and b2
+b1 has count: 39
+b2 has count: 41
+At 64 best is continue, count = 39
+return 39
+Route 2 done, b1 = 40
+return 40
+Route 1 done, b1 = 40
+Route 2 start at 2 word = aa
+Into layer 63
+Route 1 continue at 2
+Into layer 64
+pre stored, return 41
+Route 1 done, b1 = 41
+Route 2 start at 2 word = a
+Into layer 64
+pre stored, return 41
+Route 2 done, b1 = 42
+Comparing b1 and b2
+b1 has count: 41
+b2 has count: 42
+At 63 best is continue, count = 41
+return 41
+Route 2 done, b1 = 42
+Comparing b1 and b2
+b1 has count: 40
+b2 has count: 42
+At 62 best is continue, count = 40
+return 40
+Route 1 done, b1 = 40
+Route 2 start at 2 word = a
+Into layer 62
+pre stored, return 41
+Route 2 done, b1 = 42
+Comparing b1 and b2
+b1 has count: 40
+b2 has count: 42
+At 61 best is continue, count = 40
+return 40
+Route 2 done, b1 = 41
+return 41
+Route 1 done, b1 = 41
+return 41
+Route 1 done, b1 = 41
+Route 2 start at 2 word = a
+Into layer 59
+pre stored, return 42
+Route 2 done, b1 = 43
+Comparing b1 and b2
+b1 has count: 41
+b2 has count: 43
+At 58 best is continue, count = 41
+return 41
+Route 2 done, b1 = 42
+return 42
+Route 1 done, b1 = 42
+Route 2 start at 2 word = aa
+Into layer 57
+Route 1 continue at 2
+Into layer 58
+pre stored, return 43
+Route 1 done, b1 = 43
+Route 2 start at 2 word = a
+Into layer 58
+pre stored, return 43
+Route 2 done, b1 = 44
+Comparing b1 and b2
+b1 has count: 43
+b2 has count: 44
+At 57 best is continue, count = 43
+return 43
+Route 2 done, b1 = 44
+Comparing b1 and b2
+b1 has count: 42
+b2 has count: 44
+At 56 best is continue, count = 42
+return 42
+Route 1 done, b1 = 42
+Route 2 start at 2 word = a
+Into layer 56
+pre stored, return 43
+Route 2 done, b1 = 44
+Comparing b1 and b2
+b1 has count: 42
+b2 has count: 44
+At 55 best is continue, count = 42
+return 42
+Route 2 done, b1 = 43
+return 43
+Route 1 done, b1 = 43
+return 43
+Route 1 done, b1 = 43
+Route 2 start at 2 word = a
+Into layer 53
+pre stored, return 44
+Route 2 done, b1 = 45
+Comparing b1 and b2
+b1 has count: 43
+b2 has count: 45
+At 52 best is continue, count = 43
+return 43
+Route 2 done, b1 = 44
+return 44
+Route 1 done, b1 = 44
+Route 2 start at 2 word = aa
+Into layer 51
+Route 1 continue at 2
+Into layer 52
+pre stored, return 45
+Route 1 done, b1 = 45
+Route 2 start at 2 word = a
+Into layer 52
+pre stored, return 45
+Route 2 done, b1 = 46
+Comparing b1 and b2
+b1 has count: 45
+b2 has count: 46
+At 51 best is continue, count = 45
+return 45
+Route 2 done, b1 = 46
+Comparing b1 and b2
+b1 has count: 44
+b2 has count: 46
+At 50 best is continue, count = 44
+return 44
+Route 1 done, b1 = 44
+Route 2 start at 2 word = a
+Into layer 50
+pre stored, return 45
+Route 2 done, b1 = 46
+Comparing b1 and b2
+b1 has count: 44
+b2 has count: 46
+At 49 best is continue, count = 44
+return 44
+Route 2 done, b1 = 45
+return 45
+Route 1 done, b1 = 45
+return 45
+Route 1 done, b1 = 45
+Route 2 start at 2 word = a
+Into layer 47
+pre stored, return 46
+Route 2 done, b1 = 47
+Comparing b1 and b2
+b1 has count: 45
+b2 has count: 47
+At 46 best is continue, count = 45
+return 45
+Route 2 done, b1 = 46
+return 46
+Route 1 done, b1 = 46
+Route 2 start at 2 word = aa
+Into layer 45
+Route 1 continue at 2
+Into layer 46
+pre stored, return 47
+Route 1 done, b1 = 47
+Route 2 start at 2 word = a
+Into layer 46
+pre stored, return 47
+Route 2 done, b1 = 48
+Comparing b1 and b2
+b1 has count: 47
+b2 has count: 48
+At 45 best is continue, count = 47
+return 47
+Route 2 done, b1 = 48
+Comparing b1 and b2
+b1 has count: 46
+b2 has count: 48
+At 44 best is continue, count = 46
+return 46
+Route 1 done, b1 = 46
+Route 2 start at 2 word = a
+Into layer 44
+pre stored, return 47
+Route 2 done, b1 = 48
+Comparing b1 and b2
+b1 has count: 46
+b2 has count: 48
+At 43 best is continue, count = 46
+return 46
+Route 2 done, b1 = 47
+return 47
+Route 1 done, b1 = 47
+return 47
+Route 1 done, b1 = 47
+Route 2 start at 2 word = a
+Into layer 41
+pre stored, return 48
+Route 2 done, b1 = 49
+Comparing b1 and b2
+b1 has count: 47
+b2 has count: 49
+At 40 best is continue, count = 47
+return 47
+Route 2 done, b1 = 48
+return 48
+Route 1 done, b1 = 48
+Route 2 start at 2 word = aa
+Into layer 39
+Route 1 continue at 2
+Into layer 40
+pre stored, return 49
+Route 1 done, b1 = 49
+Route 2 start at 2 word = a
+Into layer 40
+pre stored, return 49
+Route 2 done, b1 = 50
+Comparing b1 and b2
+b1 has count: 49
+b2 has count: 50
+At 39 best is continue, count = 49
+return 49
+Route 2 done, b1 = 50
+Comparing b1 and b2
+b1 has count: 48
+b2 has count: 50
+At 38 best is continue, count = 48
+return 48
+Route 1 done, b1 = 48
+Route 2 start at 2 word = a
+Into layer 38
+pre stored, return 49
+Route 2 done, b1 = 50
+Comparing b1 and b2
+b1 has count: 48
+b2 has count: 50
+At 37 best is continue, count = 48
+return 48
+Route 2 done, b1 = 49
+return 49
+Route 1 done, b1 = 49
+return 49
+Route 1 done, b1 = 49
+Route 2 start at 2 word = a
+Into layer 35
+pre stored, return 50
+Route 2 done, b1 = 51
+Comparing b1 and b2
+b1 has count: 49
+b2 has count: 51
+At 34 best is continue, count = 49
+return 49
+Route 2 done, b1 = 50
+return 50
+Route 1 done, b1 = 50
+Route 2 start at 2 word = aa
+Into layer 33
+Route 1 continue at 2
+Into layer 34
+pre stored, return 51
+Route 1 done, b1 = 51
+Route 2 start at 2 word = a
+Into layer 34
+pre stored, return 51
+Route 2 done, b1 = 52
+Comparing b1 and b2
+b1 has count: 51
+b2 has count: 52
+At 33 best is continue, count = 51
+return 51
+Route 2 done, b1 = 52
+Comparing b1 and b2
+b1 has count: 50
+b2 has count: 52
+At 32 best is continue, count = 50
+return 50
+Route 1 done, b1 = 50
+Route 2 start at 2 word = a
+Into layer 32
+pre stored, return 51
+Route 2 done, b1 = 52
+Comparing b1 and b2
+b1 has count: 50
+b2 has count: 52
+At 31 best is continue, count = 50
+return 50
+Route 2 done, b1 = 51
+return 51
+Route 1 done, b1 = 51
+return 51
+Route 1 done, b1 = 51
+Route 2 start at 2 word = a
+Into layer 29
+pre stored, return 52
+Route 2 done, b1 = 53
+Comparing b1 and b2
+b1 has count: 51
+b2 has count: 53
+At 28 best is continue, count = 51
+return 51
+Route 2 done, b1 = 52
+return 52
+Route 1 done, b1 = 52
+Route 2 start at 2 word = aa
+Into layer 27
+Route 1 continue at 2
+Into layer 28
+pre stored, return 53
+Route 1 done, b1 = 53
+Route 2 start at 2 word = a
+Into layer 28
+pre stored, return 53
+Route 2 done, b1 = 54
+Comparing b1 and b2
+b1 has count: 53
+b2 has count: 54
+At 27 best is continue, count = 53
+return 53
+Route 2 done, b1 = 54
+Comparing b1 and b2
+b1 has count: 52
+b2 has count: 54
+At 26 best is continue, count = 52
+return 52
+Route 1 done, b1 = 52
+Route 2 start at 2 word = a
+Into layer 26
+pre stored, return 53
+Route 2 done, b1 = 54
+Comparing b1 and b2
+b1 has count: 52
+b2 has count: 54
+At 25 best is continue, count = 52
+return 52
+Route 2 done, b1 = 53
+return 53
+Route 1 done, b1 = 53
+return 53
+Route 1 done, b1 = 53
+Route 2 start at 2 word = a
+Into layer 23
+pre stored, return 54
+Route 2 done, b1 = 55
+Comparing b1 and b2
+b1 has count: 53
+b2 has count: 55
+At 22 best is continue, count = 53
+return 53
+Route 2 done, b1 = 54
+return 54
+Route 1 done, b1 = 54
+Route 2 start at 2 word = aa
+Into layer 21
+Route 1 continue at 2
+Into layer 22
+pre stored, return 55
+Route 1 done, b1 = 55
+Route 2 start at 2 word = a
+Into layer 22
+pre stored, return 55
+Route 2 done, b1 = 56
+Comparing b1 and b2
+b1 has count: 55
+b2 has count: 56
+At 21 best is continue, count = 55
+return 55
+Route 2 done, b1 = 56
+Comparing b1 and b2
+b1 has count: 54
+b2 has count: 56
+At 20 best is continue, count = 54
+return 54
+Route 1 done, b1 = 54
+Route 2 start at 2 word = a
+Into layer 20
+pre stored, return 55
+Route 2 done, b1 = 56
+Comparing b1 and b2
+b1 has count: 54
+b2 has count: 56
+At 19 best is continue, count = 54
+return 54
+Route 2 done, b1 = 55
+return 55
+Route 1 done, b1 = 55
+return 55
+Route 1 done, b1 = 55
+Route 2 start at 2 word = a
+Into layer 17
+pre stored, return 56
+Route 2 done, b1 = 57
+Comparing b1 and b2
+b1 has count: 55
+b2 has count: 57
+At 16 best is continue, count = 55
+return 55
+Route 2 done, b1 = 56
+return 56
+Route 1 done, b1 = 56
+Route 2 start at 2 word = a
+Into layer 15
+pre stored, return 57
+Route 2 done, b1 = 58
+Comparing b1 and b2
+b1 has count: 56
+b2 has count: 58
+At 14 best is continue, count = 56
+return 56
+Route 2 done, b1 = 57
+return 57
+Route 1 done, b1 = 57
+return 57
+Route 2 done, b1 = 58
+return 58
+Route 1 done, b1 = 58
+Route 2 start at 2 word = a
+Into layer 11
+pre stored, return 59
+Route 2 done, b1 = 60
+Comparing b1 and b2
+b1 has count: 58
+b2 has count: 60
+At 10 best is continue, count = 58
+return 58
+Route 2 done, b1 = 59
+return 59
+Route 1 done, b1 = 59
+Route 2 start at 2 word = aa
+Into layer 9
+Route 1 continue at 2
+Into layer 10
+pre stored, return 60
+Route 1 done, b1 = 60
+Route 2 start at 2 word = a
+Into layer 10
+pre stored, return 60
+Route 2 done, b1 = 61
+Comparing b1 and b2
+b1 has count: 60
+b2 has count: 61
+At 9 best is continue, count = 60
+return 60
+Route 2 done, b1 = 61
+Comparing b1 and b2
+b1 has count: 59
+b2 has count: 61
+At 8 best is continue, count = 59
+return 59
+Route 1 done, b1 = 59
+Route 2 start at 2 word = a
+Into layer 8
+pre stored, return 60
+Route 2 done, b1 = 61
+Comparing b1 and b2
+b1 has count: 59
+b2 has count: 61
+At 7 best is continue, count = 59
+return 59
+Route 2 done, b1 = 60
+return 60
+Route 1 done, b1 = 60
+return 60
+Route 2 done, b1 = 61
+return 61
+Route 1 done, b1 = 61
+Route 2 start at 2 word = a
+Into layer 4
+pre stored, return 62
+Route 2 done, b1 = 63
+Comparing b1 and b2
+b1 has count: 61
+b2 has count: 63
+At 3 best is continue, count = 61
+return 61
+Route 2 done, b1 = 62
+return 62
+Route 1 done, b1 = 62
+Route 2 start at 2 word = aa
+Into layer 2
+Route 1 continue at 2
+Into layer 3
+pre stored, return 63
+Route 1 done, b1 = 63
+Route 2 start at 2 word = a
+Into layer 3
+pre stored, return 63
+Route 2 done, b1 = 64
+Comparing b1 and b2
+b1 has count: 63
+b2 has count: 64
+At 2 best is continue, count = 63
+return 63
+Route 2 done, b1 = 64
+Comparing b1 and b2
+b1 has count: 62
+b2 has count: 64
+At 1 best is continue, count = 62
+return 62
+Route 1 done, b1 = 62
+Route 2 start at 2 word = a
+Into layer 1
+pre stored, return 63
+Route 2 done, b1 = 64
+Comparing b1 and b2
+b1 has count: 62
+b2 has count: 64
+At 0 best is continue, count = 62
+return 62
+Done, count = 62
+
+2222222322222222322222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322222222322
+Parse done, output:
+0: 2
+1: 2
+2: 2
+3: 2
+4: 2
+finally word: aaaa
+5: 2
+6: 2
+finally word: aa
+7: 3
+8: 2
+9: 2
+finally word: afa
+10: 2
+11: 2
+12: 2
+13: 2
+finally word: aaaa
+14: 2
+15: 2
+finally word: aa
+16: 3
+17: 2
+18: 2
+finally word: afa
+19: 2
+20: 2
+finally word: aa
+21: 2
+22: 3
+23: 2
+24: 2
+25: 2
+finally word: aafaa
+26: 2
+27: 2
+28: 2
+29: 2
+finally word: aaaa
+30: 2
+31: 3
+32: 2
+33: 2
+34: 2
+finally word: aafaa
+35: 2
+36: 2
+37: 2
+38: 2
+finally word: aaaa
+39: 2
+40: 3
+41: 2
+42: 2
+43: 2
+finally word: aafaa
+44: 2
+45: 2
+46: 2
+47: 2
+finally word: aaaa
+48: 2
+49: 3
+50: 2
+51: 2
+52: 2
+finally word: aafaa
+53: 2
+54: 2
+55: 2
+56: 2
+finally word: aaaa
+57: 2
+58: 3
+59: 2
+60: 2
+61: 2
+finally word: aafaa
+62: 2
+63: 2
+64: 2
+65: 2
+finally word: aaaa
+66: 2
+67: 3
+68: 2
+69: 2
+70: 2
+finally word: aafaa
+71: 2
+72: 2
+73: 2
+74: 2
+finally word: aaaa
+75: 2
+76: 3
+77: 2
+78: 2
+79: 2
+finally word: aafaa
+80: 2
+81: 2
+82: 2
+83: 2
+finally word: aaaa
+84: 2
+85: 3
+86: 2
+87: 2
+88: 2
+finally word: aafaa
+89: 2
+90: 2
+91: 2
+92: 2
+finally word: aaaa
+93: 2
+94: 3
+95: 2
+96: 2
+97: 2
+finally word: aafaa
+98: 2
+99: 2
+100: 2
+101: 2
+finally word: aaaa
+102: 2
+103: 3
+104: 2
+105: 2
+106: 2
+finally word: aafaa
+107: 2
+108: 2
+109: 2
+110: 2
+finally word: aaaa
+111: 2
+112: 3
+113: 2
+114: 2
+115: 2
+finally word: aafaa
+116: 2
+117: 2
+118: 2
+119: 2
+finally word: aaaa
+120: 2
+121: 3
+122: 2
+123: 2
+124: 2
+finally word: aafaa
+125: 2
+126: 2
+127: 2
+128: 2
+finally word: aaaa
+129: 2
+130: 3
+131: 2
+132: 2
+133: 2
+finally word: aafaa
+134: 2
+135: 2
+136: 2
+137: 2
+finally word: aaaa
+138: 2
+139: 3
+140: 2
+141: 2
+142: 2
+finally word: aafaa
+143: 2
+144: 2
+145: 2
+146: 2
+finally word: aaaa
+147: 2
+148: 3
+149: 2
+150: 2
+151: 2
+finally word: aafaa
+152: 2
+153: 2
+154: 2
+155: 2
+finally word: aaaa
+156: 2
+157: 3
+158: 2
+159: 2
+160: 2
+finally word: aafaa
+161: 2
+162: 2
+163: 2
+164: 2
+finally word: aaaa
+165: 2
+166: 3
+167: 2
+168: 2
+169: 2
+finally word: aafaa
+170: 2
+171: 2
+172: 2
+173: 2
+finally word: aaaa
+174: 2
+175: 3
+176: 2
+177: 2
+178: 2
+finally word: aafaa
+179: 2
+180: 2
+181: 2
+182: 2
+finally word: aaaa
+183: 2
+184: 3
+185: 2
+186: 2
+187: 2
+finally word: aafaa
+188: 2
+189: 2
+190: 2
+191: 2
+finally word: aaaa
+192: 2
+193: 3
+194: 2
+195: 2
+196: 2
+finally word: aafaa
+197: 2
+198: 2
+199: 2
+200: 2
+finally word: aaaa
+201: 2
+202: 3
+203: 2
+204: 2
+205: 2
+finally word: aafaa
+206: 2
+207: 2
+208: 2
+209: 2
+finally word: aaaa
+210: 2
+211: 3
+212: 2
+213: 2
+214: 2
+finally word: aafaa
+215: 2
+216: 2
+217: 2
+218: 2
+finally word: aaaa
+219: 2
+220: 3
+221: 2
+222: 2
+223: 2
+finally word: aafaa
+224: 2
+225: 2
+226: 2
+227: 2
+finally word: aaaa
+228: 2
+229: 3
+230: 2
+231: 2
+232: 2
+finally word: aafaa
+233: 2
+234: 2
+235: 2
+236: 2
+finally word: aaaa
+237: 2
+238: 3
+239: 2
+240: 2
+241: 2
+finally word: aafaa
+242: 2
+243: 2
+244: 2
+245: 2
+finally word: aaaa
+246: 2
+247: 3
+248: 2
+249: 2
+250: 2
+finally word: aafaa
+251: 2
+252: 2
+253: 2
+254: 2
+finally word: aaaa
+255: 2
+256: 3
+257: 2
+258: 2
+259: 2
+finally word: aafaa
+260: 2
+261: 2
+262: 2
+263: 2
+finally word: aaaa
+264: 2
+265: 3
+266: 2
+267: 2
+
+New Call: 72953994777284856983298465189367895127892382885672377321235444325988737612787346332
+Into layer 0
+next: 7
+next: 2
+Route 2 start at 9 word = pa
+Into layer 1
+next: 5
+next: 3
+Route 1 continue at 9
+Into layer 2
+Route 1 continue at 9
+Into layer 3
+Route 1 continue at 4
+Into layer 4
+Route 1 continue at 7
+Into layer 5
+Route 1 continue at 7
+Into layer 6
+Route 1 continue at 7
+Into layer 7
+Route 1 continue at 2
+Into layer 8
+Route 1 continue at 8
+Into layer 9
+Route 1 continue at 4
+Into layer 10
+Route 1 continue at 8
+Into layer 11
+Route 1 continue at 5
+Into layer 12
+Route 1 continue at 6
+Into layer 13
+Route 1 continue at 9
+Into layer 14
+Route 1 continue at 8
+Into layer 15
+Route 1 continue at 3
+Into layer 16
+Route 1 continue at 2
+Into layer 17
+Route 1 continue at 9
+Into layer 18
+Route 1 continue at 8
+Into layer 19
+Route 1 continue at 4
+Into layer 20
+Route 1 continue at 6
+Into layer 21
+Route 1 continue at 5
+Into layer 22
+Route 1 continue at 1
+Into layer 23
+Route 1 continue at 8
+Into layer 24
+Route 1 continue at 9
+Into layer 25
+Route 1 continue at 3
+Into layer 26
+Route 1 continue at 6
+Into layer 27
+Route 1 continue at 7
+Into layer 28
+Route 1 continue at 8
+Into layer 29
+Route 1 continue at 9
+Into layer 30
+Route 1 continue at 5
+Into layer 31
+Route 1 continue at 1
+Into layer 32
+Route 1 continue at 2
+Into layer 33
+Route 1 continue at 7
+Into layer 34
+Route 1 continue at 8
+Into layer 35
+Route 2 start at 9 word = wkdwwgpppatgtkmwtdawtgmkitwdmptwkiapt
+Into layer 36
+next: 2
+next: 3
+next: 8
+next: 2
+next: 8
+next: 8
+next: 5
+next: 6
+next: 7
+next: 2
+next: 3
+next: 7
+next: 7
+next: 3
+next: 2
+next: 1
+next: 2
+next: 3
+next: 5
+next: 4
+next: 4
+Route 2 start at 4 word = wadtattkmpadppdaiadkgg
+Into layer 37
+next: 3
+next: 2
+Route 1 continue at 5
+Into layer 38
+Route 1 continue at 9
+Into layer 39
+Route 1 continue at 8
+Into layer 40
+Route 1 continue at 8
+Into layer 41
+Route 1 continue at 7
+Into layer 42
+Route 1 continue at 3
+Into layer 43
+Route 1 continue at 7
+Into layer 44
+Route 1 continue at 6
+Into layer 45
+Route 1 continue at 1
+Into layer 46
+Route 1 continue at 2
+Into layer 47
+Route 1 continue at 7
+Into layer 48
+Route 1 continue at 8
+Into layer 49
+Route 1 continue at 7
+Into layer 50
+Route 1 continue at 3
+Into layer 51
+Route 1 continue at 4
+Into layer 52
+Route 1 continue at 6
+Into layer 53
+Route 1 continue at 3
+Into layer 54
+Route 1 continue at 3
+Into layer 55
+Route 1 continue at 2
+Into layer 56
+reach end, last word: gdakwttpdpmiaptpdgmdda
+Route 1 done, b1 = 1
+Route 2 start at 2 word = gdakwttpdpmiaptpdgmdd
+Into layer 56
+Dead End, No word available
+Route 2 done, b1 = -9
+return 1
+Route 1 done, b1 = 1
+Route 2 start at 3 word = gdakwttpdpmiaptpdgmd
+Into layer 55
+next: 2
+Dead End, No word available
+Route 2 done, b1 = -9
+return 1
+Route 1 done, b1 = 1
+Route 2 start at 3 word = gdakwttpdpmiaptpdgm
+Into layer 54
+next: 3
+next: 2
+reach end, last word: dda
+Route 2 done, b1 = 2
+Comparing b1 and b2
+b1 has count: 1
+b2 has count: 2
+At 53 best is continue, count = 1
+return 1
+Route 1 done, b1 = 1
+Route 2 start at 6 word = gdakwttpdpmiaptpdg
+Into layer 53
+next: 3
+next: 3
+pre stored, return 2
+Route 2 done, b1 = 3
+Comparing b1 and b2
+b1 has count: 1
+b2 has count: 3
+At 52 best is continue, count = 1
+return 1
+Route 1 done, b1 = 1
+Route 2 start at 4 word = gdakwttpdpmiaptpd
+Into layer 52
+next: 6
+next: 3
+pre stored, return 2
+Route 2 done, b1 = 3
+Comparing b1 and b2
+b1 has count: 1
+b2 has count: 3
+At 51 best is continue, count = 1
+return 1
+Route 1 done, b1 = 1
+Route 2 start at 3 word = gdakwttpdpmiaptp
+Into layer 51
+next: 4
+next: 6
+pre stored, return 2
+Route 2 done, b1 = 3
+Comparing b1 and b2
+b1 has count: 1
+b2 has count: 3
+At 50 best is continue, count = 1
+return 1
+Route 1 done, b1 = 1
+Route 2 start at 7 word = gdakwttpdpmiapt
+Into layer 50
+next: 3
+next: 4
+pre stored, return 2
+Route 2 done, b1 = 3
+Comparing b1 and b2
+b1 has count: 1
+b2 has count: 3
+At 49 best is continue, count = 1
+return 1
+Route 1 done, b1 = 1
+Route 2 start at 8 word = gdakwttpdpmiap
+Into layer 49
+next: 7
+next: 3
+pre stored, return 2
+Route 2 done, b1 = 3
+Comparing b1 and b2
+b1 has count: 1
+b2 has count: 3
+At 48 best is continue, count = 1
+return 1
+Route 1 done, b1 = 1
+Route 2 start at 7 word = gdakwttpdpmia
+Into layer 48
+next: 8
+next: 7
+pre stored, return 2
+Route 2 done, b1 = 3
+Comparing b1 and b2
+b1 has count: 1
+b2 has count: 3
+At 47 best is continue, count = 1
+return 1
+Route 1 done, b1 = 1
+Route 2 start at 2 word = gdakwttpdpmi
+Into layer 47
+next: 7
+next: 8
+pre stored, return 2
+Route 2 done, b1 = 3
+Comparing b1 and b2
+b1 has count: 1
+b2 has count: 3
+At 46 best is continue, count = 1
+return 1
+Route 1 done, b1 = 1
+Route 2 start at 1 word = gdakwttpdpm
+Into layer 46
+next: 2
+next: 7
+pre stored, return 2
+Route 2 done, b1 = 3
+Comparing b1 and b2
+b1 has count: 1
+b2 has count: 3
+At 45 best is continue, count = 1
+return 1
+Route 1 done, b1 = 1
+Route 2 start at 6 word = gdakwttpdp
+Into layer 45
+next: 1
+next: 2
+pre stored, return 2
+Route 2 done, b1 = 3
+Comparing b1 and b2
+b1 has count: 1
+b2 has count: 3
+At 44 best is continue, count = 1
+return 1
+Route 1 done, b1 = 1
+Route 2 start at 7 word = gdakwttpd
+Into layer 44
+next: 6
+next: 1
+pre stored, return 2
+Route 2 done, b1 = 3
+Comparing b1 and b2
+b1 has count: 1
+b2 has count: 3
+At 43 best is continue, count = 1
+return 1
+Route 1 done, b1 = 1
+Route 2 start at 3 word = gdakwttp
+Into layer 43
+next: 7
+next: 6
+pre stored, return 2
+Route 2 done, b1 = 3
+Comparing b1 and b2
+b1 has count: 1
+b2 has count: 3
+At 42 best is continue, count = 1
+return 1
+Route 1 done, b1 = 1
+Route 2 start at 7 word = gdakwtt
+Into layer 42
+next: 3
+next: 7
+pre stored, return 2
+Route 2 done, b1 = 3
+Comparing b1 and b2
+b1 has count: 1
+b2 has count: 3
+At 41 best is continue, count = 1
+return 1
+Route 1 done, b1 = 1
+Route 2 start at 8 word = gdakwt
+Into layer 41
+next: 7
+next: 3
+pre stored, return 2
+Route 2 done, b1 = 3
+Comparing b1 and b2
+b1 has count: 1
+b2 has count: 3
+At 40 best is continue, count = 1
+return 1
+Route 1 done, b1 = 1
+Route 2 start at 8 word = gdakw
+Into layer 40
+next: 8
+next: 7
+pre stored, return 2
+Route 2 done, b1 = 3
+Comparing b1 and b2
+b1 has count: 1
+b2 has count: 3
+At 39 best is continue, count = 1
+return 1
+Route 1 done, b1 = 1
+Route 2 start at 9 word = gdak
+Into layer 39
+next: 8
+next: 8
+pre stored, return 2
+Route 2 done, b1 = 3
+Comparing b1 and b2
+b1 has count: 1
+b2 has count: 3
+At 38 best is continue, count = 1
+return 1
+Route 1 done, b1 = 1
+Route 2 start at 5 word = gda
+Into layer 38
+next: 9
+next: 8
+pre stored, return 2
+Route 2 done, b1 = 3
+Comparing b1 and b2
+b1 has count: 1
+b2 has count: 3
+At 37 best is continue, count = 1
+return 1
+Route 2 done, b1 = 2
+return 2
+Route 2 done, b1 = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 8 word = wkdwwgpppatgtkmwtdawtgmkitwdmptwkiap
+Into layer 35
+next: 9
+Dead End, No word available
+Route 2 done, b1 = -9
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 7 word = wkdwwgpppatgtkmwtdawtgmkitwdmptwkia
+Into layer 34
+next: 8
+next: 9
+Route 2 start at 2 word = ptw
+Into layer 35
+next: 3
+next: 8
+Route 1 continue at 2
+Into layer 36
+Route 1 continue at 8
+Into layer 37
+Route 1 continue at 8
+Into layer 38
+Route 1 continue at 5
+Into layer 39
+Route 1 continue at 6
+Into layer 40
+Route 1 continue at 7
+Into layer 41
+Route 1 continue at 2
+Into layer 42
+Route 1 continue at 3
+Into layer 43
+Route 1 continue at 7
+Into layer 44
+Route 1 continue at 7
+Into layer 45
+Route 1 continue at 3
+Into layer 46
+Route 1 continue at 2
+Into layer 47
+Route 1 continue at 1
+Into layer 48
+next: 2
+Route 1 continue at 3
+Into layer 49
+Route 1 continue at 5
+Into layer 50
+Route 1 continue at 4
+Into layer 51
+Route 1 continue at 4
+Into layer 52
+pre stored, return 3
+Route 1 done, b1 = 3
+Route 2 start at 4 word = adtattkmpadppdaiadkg
+Into layer 52
+next: 4
+next: 3
+Route 1 continue at 2
+Into layer 53
+pre stored, return 2
+Route 1 done, b1 = 2
+Route 2 start at 2 word = ggd
+Into layer 53
+next: 5
+next: 9
+pre stored, return 2
+Route 2 done, b1 = 3
+Comparing b1 and b2
+b1 has count: 2
+b2 has count: 3
+At 52 best is continue, count = 2
+return 2
+Route 2 done, b1 = 3
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 3
+At 51 best is end, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 4 word = adtattkmpadppdaiadk
+Into layer 51
+next: 4
+next: 4
+Route 1 continue at 3
+Into layer 52
+pre stored, return 3
+Route 1 done, b1 = 3
+Route 2 start at 3 word = ggg
+Into layer 52
+next: 2
+next: 5
+pre stored, return 2
+Route 2 done, b1 = 3
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 3
+At 51 best is end, count = 3
+return 3
+Route 2 done, b1 = 4
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 4
+At 50 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 5 word = adtattkmpadppdaiad
+Into layer 50
+next: 4
+next: 4
+pre stored, return 3
+Route 2 done, b1 = 4
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 4
+At 49 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 3 word = adtattkmpadppdaia
+Into layer 49
+next: 5
+next: 4
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 48 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 1 word = adtattkmpadppda
+Into layer 48
+next: 2
+next: 3
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 47 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 2 word = adtattkmpadppd
+Into layer 47
+next: 1
+next: 2
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 46 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 3 word = adtattkmpadpp
+Into layer 46
+next: 2
+next: 1
+Route 1 continue at 2
+Into layer 47
+pre stored, return 4
+Route 1 done, b1 = 4
+Route 2 start at 2 word = dai
+Into layer 47
+next: 3
+next: 5
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 4
+b2 has count: 5
+At 46 best is continue, count = 4
+return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 45 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 7 word = adtattkmpadp
+Into layer 45
+next: 3
+next: 2
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 44 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 7 word = adtattkmpad
+Into layer 44
+next: 7
+next: 3
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 43 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 3 word = adtattkmpa
+Into layer 43
+next: 7
+next: 7
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 42 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 2 word = adtattkmp
+Into layer 42
+next: 3
+next: 7
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 41 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 7 word = adtattkm
+Into layer 41
+next: 2
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 40 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 6 word = adtattk
+Into layer 40
+next: 7
+next: 2
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 39 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 5 word = adtatt
+Into layer 39
+next: 6
+next: 7
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 38 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 8 word = adtat
+Into layer 38
+next: 5
+next: 6
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 37 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 8 word = adta
+Into layer 37
+next: 8
+next: 5
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 36 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 2 word = adt
+Into layer 36
+next: 8
+next: 8
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 35 best is continue, count = 3
+return 3
+Route 2 done, b1 = 4
+return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 33 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 2 word = wkdwwgpppatgtkmwtdawtgmkitwdmptwki
+Into layer 33
+next: 7
+next: 8
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 32 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 1 word = wkdwwgpppatgtkmwtdawtgmkitwdmptwk
+Into layer 32
+next: 2
+next: 7
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 31 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 5 word = wkdwwgpppatgtkmwtdawtgmkitwdmptw
+Into layer 31
+next: 1
+next: 2
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 30 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 9 word = wkdwwgpppatgtkmwtdawtgmkitwdmpt
+Into layer 30
+next: 5
+next: 1
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 29 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 8 word = wkdwwgpppatgtkmwtdawtgmkitwdmp
+Into layer 29
+next: 9
+next: 5
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 28 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 7 word = wkdwwgpppatgtkmwtdawtgmkitwdm
+Into layer 28
+next: 8
+next: 9
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 27 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 6 word = wkdwwgpppatgtkmwtdawtgmkitwd
+Into layer 27
+next: 7
+next: 8
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 26 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 3 word = wkdwwgpppatgtkmwtdawtgmkitw
+Into layer 26
+next: 6
+next: 7
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 25 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 9 word = wkdwwgpppatgtkmwtdawtgmkit
+Into layer 25
+next: 3
+next: 6
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 24 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 8 word = wkdwwgpppatgtkmwtdawtgmki
+Into layer 24
+next: 9
+next: 3
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 23 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 1 word = wkdwwgpppatgtkmwtdawtgmk
+Into layer 23
+next: 8
+next: 9
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 22 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 5 word = wkdwwgpppatgtkmwtdawtgm
+Into layer 22
+next: 1
+next: 8
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 21 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 6 word = wkdwwgpppatgtkmwtdawtg
+Into layer 21
+next: 5
+next: 1
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 20 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 4 word = wkdwwgpppatgtkmwtdawt
+Into layer 20
+next: 6
+next: 5
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 19 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 8 word = wkdwwgpppatgtkmwtdaw
+Into layer 19
+next: 4
+next: 6
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 18 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 9 word = wkdwwgpppatgtkmwtda
+Into layer 18
+next: 8
+next: 4
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 17 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 2 word = wkdwwgpppatgtkmwtd
+Into layer 17
+next: 9
+next: 8
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 16 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 3 word = wkdwwgpppatgtkmwt
+Into layer 16
+next: 2
+next: 9
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 15 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 8 word = wkdwwgpppatgtkmw
+Into layer 15
+next: 3
+next: 2
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 14 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 9 word = wkdwwgpppatgtkm
+Into layer 14
+next: 8
+next: 3
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 13 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 6 word = wkdwwgpppatgtk
+Into layer 13
+next: 9
+next: 8
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 12 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 5 word = wkdwwgpppatgt
+Into layer 12
+next: 6
+next: 9
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 11 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 8 word = wkdwwgpppatg
+Into layer 11
+next: 5
+next: 6
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 10 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 4 word = wkdwwgpppat
+Into layer 10
+next: 8
+next: 5
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 9 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 8 word = wkdwwgpppa
+Into layer 9
+next: 4
+next: 8
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 8 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 2 word = wkdwwgppp
+Into layer 8
+next: 8
+next: 4
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 7 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 7 word = wkdwwgpp
+Into layer 7
+next: 2
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 6 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 7 word = wkdwwgp
+Into layer 6
+next: 7
+next: 2
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 5 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 7 word = wkdwwg
+Into layer 5
+next: 7
+next: 7
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 4 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 4 word = wkdww
+Into layer 4
+next: 7
+next: 7
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 3 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 9 word = wkdw
+Into layer 3
+next: 4
+next: 7
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 2 best is continue, count = 3
+return 3
+Route 1 done, b1 = 3
+Route 2 start at 9 word = wkd
+Into layer 2
+next: 9
+next: 4
+pre stored, return 4
+Route 2 done, b1 = 5
+Comparing b1 and b2
+b1 has count: 3
+b2 has count: 5
+At 1 best is continue, count = 3
+return 3
+Route 2 done, b1 = 4
+return 4
+Done, count = 4
+
+72953994777284856983298465189367895127892382885672377321235444325988737612787346332
+Parse done, output:
+0: 7
+1: 2
+2: 9
+finally word: pa
+3: 5
+4: 3
+5: 9
+6: 9
+7: 4
+8: 7
+9: 7
+10: 7
+11: 2
+12: 8
+13: 4
+14: 8
+15: 5
+16: 6
+17: 9
+18: 8
+19: 3
+20: 2
+21: 9
+22: 8
+23: 4
+24: 6
+25: 5
+26: 1
+27: 8
+28: 9
+29: 3
+30: 6
+31: 7
+32: 8
+33: 9
+34: 5
+35: 1
+36: 2
+37: 7
+38: 8
+39: 9
+finally word: wkdwwgpppatgtkmwtdawtgmkitwdmptwkiapt
+40: 2
+41: 3
+42: 8
+43: 2
+44: 8
+45: 8
+46: 5
+47: 6
+48: 7
+49: 2
+50: 3
+51: 7
+52: 7
+53: 3
+54: 2
+55: 1
+56: 2
+57: 3
+58: 5
+59: 4
+60: 4
+61: 4
+finally word: wadtattkmpadppdaiadkgg
+62: 3
+63: 2
+64: 5
+65: 9
+66: 8
+67: 8
+68: 7
+69: 3
+70: 7
+71: 6
+72: 1
+73: 2
+74: 7
+75: 8
+76: 7
+77: 3
+78: 4
+79: 6
+80: 3
+81: 3
+82: 2
