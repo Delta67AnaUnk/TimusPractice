@@ -116,6 +116,7 @@ int FindPart(string& call,string::size_type start,TrieNode* cur, vector<BestNode
 int FindPart(string& call,string::size_type start,TrieNode* cur, vector<BestNode>& best,int layer = 0)
 {
 	string::size_type i;
+	TrieNode* tmpnode;
 	cerr<<"Into layer "<<layer<<endl;
 	for(i = start;i < call.size()+1;i++){
 		char ch = call[0];
@@ -136,16 +137,16 @@ int FindPart(string& call,string::size_type start,TrieNode* cur, vector<BestNode
 			BestNode b1,b2;
 			if(cur->hasKey(ch)){
 				cerr<<"Route 1 continue at "<<ch<<endl;
-				b1.node = (*cur)[ch];
+				tmpnode = (*cur)[ch];
 				b1.rollback = false;
-				b1.count = FindPart(call,i+1,b1.node,best,layer+1);
+				b1.count = FindPart(call,i+1,tmpnode,best,layer+1);
 				cerr<<"Route 1 done, b1 = "<<b1.count<<endl;
 			}
 			if(cur->root->hasKey(ch)){
 				cerr<<"Route 2 start at "<<ch<<" word = "<<cur->word<<endl;
-				b2.node = (*(cur->root))[ch];
+				tmpnode = (*(cur->root))[ch];
 				b2.rollback = true;
-				b2.count = FindPart(call,i+1,b2.node,best,layer+1)+1;
+				b2.count = FindPart(call,i+1,tmpnode,best,layer+1)+1;
 				cerr<<"Route 2 done, b1 = "<<b2.count<<endl;
 			}
 			if(b1.valid() && !b2.valid()) best[i] = b1;
