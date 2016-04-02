@@ -4,8 +4,6 @@
 #include <vector>
 #include <list>
 
-//#define DEBUG
-
 using namespace std;
 
 map<char,char> maptable;
@@ -65,13 +63,6 @@ string TrieNode::getSub(int a, int b, const string& str)
 	if(cur->hasWord()) return cur->word;
 	return "";
 }
-
-struct BestNode
-{
-	int len;//,mid;
-
-	BestNode():len(-1){}
-};
 
 string FindSeq(const string& call,list<string>& wordlist)
 {
@@ -133,9 +124,6 @@ int main()
 	while(true){
 		cin >> call;
 		if(call=="-1") break;
-		#ifdef DEBUG
-		cerr<<endl<<"New Call: "<<call<<endl;
-		#endif
 		cin >> num;
 		for(int i = 0;i<num;i++){
 			cin >> str;
